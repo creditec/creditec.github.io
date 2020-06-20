@@ -3,7 +3,7 @@
 	{% assign colors = colors | append: '|' | append: style.name %}
 {% endfor %}
 {% assign colors = colors | remove_first: '|' %}
-<button class="snipcart-add-item"
+<!--<button class="snipcart-add-item"
 	data-item-name="{{ include.product.name }}"
 	data-item-id="{{ include.product.sku }}"
 	data-item-image="{{ include.product.styles.first.image }}"
@@ -15,5 +15,8 @@
 	data-item-custom2-options="{{ colors }}"
 	data-item-url="{{ include.product.url }}"
 	data-item-price="{{ include.product.price }}">
-	{% if include.text %}{{ include.text }}{% else %}Add to cart{% endif %}
+	{% if include.text %}{{ include.text }}{% else %}Añadir Al Carrito{% endif %}
 </button>
+<button onclick="financiamiento()" style="background-color: darkred; border-color: darkred;">
+	Solicitar financiamiento
+</button>-->

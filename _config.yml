@@ -1,25 +1,25 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: CrediTec
+url: "https://creditec.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+snipcart_key: "MDQ0OTk2ODEtMmMwMS00YzhhLWI4OGEtMjFkZWM2NmJiNGVkNjM3MjczMzAyNjM1Nzc5MTI5"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Soluciones Tecnológicas
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  name: CrediTec
+  email: creditecrd@gmail.com
+  twitter: 
+  phone: "829-975-2420/829-384-1985"
 social:
-  name: Fur Template
+  name: CrediTec
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+    - https://creditec.github.io
 
 # -----
 # Build
