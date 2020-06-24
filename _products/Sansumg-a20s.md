@@ -6,7 +6,7 @@ description_markdown: >-
 
 
 
-  ¡disponible!
+  ¡Cómpralo ya!
 price: '13000.00'
 styles:
   - name: Crema
