@@ -6,7 +6,7 @@ url: "https://creditec.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "MDQ0OTk2ODEtMmMwMS00YzhhLWI4OGEtMjFkZWM2NmJiNGVkNjM3MjczMzAyNjM1Nzc5MTI5"
+# snipcart_key: "MDQ0OTk2ODEtMmMwMS00YzhhLWI4OGEtMjFkZWM2NmJiNGVkNjM3MjczMzAyNjM1Nzc5MTI5"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png

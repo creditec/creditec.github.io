@@ -1,6 +1,6 @@
 ---
-name: Suéter con elefantito
-categories: sueter
+name: Pantalón
+categories: Pantalon
 description_markdown: >-
   Esto es un suéter
   con un elefante.
