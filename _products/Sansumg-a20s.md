@@ -6,8 +6,8 @@ description_markdown: >-
 
 
 
-¡cómpralo!
-price: '11,200.00'
+  ¡cómpralo!
+price: '11200.00'
 styles:
   - name: Crema
     color: '#dfd3c2'
