@@ -2,7 +2,7 @@
 name: Samsung A20s
 categories: smartphone
 description_markdown: >-
-  Financiamiento disponible
+  Disponible
 
 
 
