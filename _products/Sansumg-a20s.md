@@ -2,12 +2,12 @@
 name: Samsung A20s
 categories: smartphone
 description_markdown: >-
-  Prueba
+  Financiamiento disponible
 
 
 
-  ¡cómpralo!
-price: '11200.00'
+  ¡disponible!
+price: '13000.00'
 styles:
   - name: Crema
     color: '#dfd3c2'
