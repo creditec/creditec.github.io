@@ -1,12 +1,9 @@
 ---
-name: Huawei H1711
+name: Huawei 
 categories: smartphone
 description_markdown: >-
-  Disponible 
+  Ascend XT2 (H1711)
 
-
-
-  ¡Cómpralo ya!
 price: '5,500.00'
 styles:
   - name: Color
