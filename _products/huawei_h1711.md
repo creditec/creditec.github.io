@@ -2,8 +2,11 @@
 name: Huawei H1711
 categories: smartphone
 description_markdown: >-
-  Disponible ¡Cómpralo ya!
+  Disponible 
 
+
+
+  ¡Cómpralo ya!
 price: '5,500.00'
 styles:
   - name: Color
