@@ -2,7 +2,7 @@
 name: Alcatel 
 categories: smartphone
 description_markdown: >-
-  5049W 5049W 32 Gb
+  5049W 32 Gb
 
 price: '5,000.00'
 styles:
