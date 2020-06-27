@@ -1,4 +1,4 @@
----
+﻿---
 name: Samsung A20s
 categories: smartphone
 description_markdown: >-
@@ -7,7 +7,7 @@ description_markdown: >-
 
 
   ¡Cómpralo ya!
-price: '13,000.00'
+price: '12,500.00'
 styles:
   - name: Crema
     color: '#dfd3c2'
