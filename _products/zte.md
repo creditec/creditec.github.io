@@ -4,7 +4,6 @@ categories: smartphone
 description_markdown: >-
   z6400c
 
-
 price: '6,800.00'
 styles:
   - name: Color
